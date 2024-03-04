@@ -5,6 +5,7 @@ The code is available both as a Jupyther Notebook and as a Python script for bet
 
 ## Key notions
 - Text preprocessing
+- Word tokenization and Word Lemmatization
 - Natural Language Parsing with regular expressions
 - NLTK
 
