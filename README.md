@@ -10,11 +10,11 @@ The code is available both as a Jupyther Notebook and as a Python script for bet
 - NLTK
 
 ## Project overview
-- Conduct a natural language parsing analysis to delve deeper into Homer's "The Iliad". 
+- Conduct a natural language parsing analysis to delve deeper into Homer's *The Iliad*. 
 - Uncover the main topics of discussion within the novel and begin to decipher some of the author’s thoughts and beliefs embedded within the text.
 
 ## Personal touch
-I was curious about the limits of this way of parsing a text, so I decided to replace Homer's classic by Nicki Minaj's classic Chun-Li. The purpose of this experiment was to observe :
+I was curious about the limits of this way of parsing a text, so I decided to replace Homer's classic by Nicki Minaj's classic *Chun-Li*. The purpose of this experiment was to observe :
 - How this script for natural language parsing performs on a shorter text.
 - How the script deals with slang words, abbreviations and interjections.
 - Compare the syntactic structure of a classical text with a very modern one.
